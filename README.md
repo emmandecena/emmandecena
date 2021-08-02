@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 
@@ -31,19 +30,3 @@ Where to find me
 - :mega: https://noti.st/aaronbassett
 - :earth_americas: Miami, FL, USA
 
-Recent Talks
-------------
-
-- :speech_balloon: [Real-Time Transcription and Sentiment Analysis of Audio Streams](https://noti.st/aaronbassett/RfEls2/real-time-transcription-and-sentiment-analysis-of-audio-streams)<br />
-_Vonage Campus, San Francisco, CA, USA - Tue Oct 29 2019_
-- :speech_balloon: [Can you keep a secret?](https://noti.st/aaronbassett/X8TLo6/can-you-keep-a-secret)<br />
-_PyGotham, New York, NY, USA - Fri Oct 04 2019_
-- :speech_balloon: [Hello to the World in 8 Web Frameworks (Micro, Batteries Included & Async)](https://noti.st/aaronbassett/Bji2Ti/hello-to-the-world-in-8-web-frameworks-micro-batteries-included-async)<br />
-_PyConWeb, Munich, Germany - Sat May 25 2019_
-- :speech_balloon: [Reduce, Reuse, Recycle - Persisting WebSocket connections with SharedWorkers](https://noti.st/aaronbassett/xzOUkb/reduce-reuse-recycle-persisting-websocket-connections-with-sharedworkers)<br />
-_DjangoCon Europe 2019, Copenhagen, Denmark - Wed Apr 10 2019_
-- [— See more](https://noti.st/aaronbassett)
-
-If you would like me to speak at your event you can reach me via [Twitter](https://twitter.com/aaronbassett) _(my DMs are open)_ or by emailing aaron.bassett@mongodb.com
-
--->
