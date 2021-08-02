@@ -7,8 +7,8 @@
 Where to find me
 ----------------
 
-- :bird: https://ecdecena.com
+- :bird:  https://ecdecena.com
 - :octocat: https://stackoverflow.com/users/5197684/emman-d
-- :mega: https://noti.st/aaronbassett
+- :mega: https://linkedin.com/in/emmanuel-d-a09a2094
 - :earth_americas: Cebu, Philippines
 
