@@ -7,8 +7,8 @@
 Where to find me
 ----------------
 
-- :bird: https://twitter.com/aaronbassett
-- :octocat: https://github.com/aaronbassett
+- :bird: https://ecdecena.com
+- :octocat: https://stackoverflow.com/users/5197684/emman-d
 - :mega: https://noti.st/aaronbassett
-- :earth_americas: Miami, FL, USA
+- :earth_americas: Cebu, Philippines
 
