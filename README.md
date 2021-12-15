@@ -1,6 +1,6 @@
 ### Hi there, I'm Emman! 👋
 
-<p>Emman has lived in the Philippines, Japan, and New Zealand. He is a data analyst specialising in electricity markets. He also has web development skills using Django.  
+<p>Emman has lived in the Philippines, Japan, and New Zealand. He is a data scientist specialising in energy (petroleum and electricity) markets. He also has web development skills using Django.  
 
 Where to find me
 ----------------
